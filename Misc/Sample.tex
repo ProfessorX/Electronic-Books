@@ -1,0 +1,231 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Plasmati Graduate CV
+% LaTeX Template
+% Version 1.0 (24/3/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Alessandro Plasmati (alessandro.plasmati@gmail.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template needs to be compiled with XeLaTeX.
+% The main document font is called Fontin and can be downloaded for free
+% from here: http://www.exljbris.com/fontin.html
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[a4paper,10pt]{article} % Default font size and paper size
+
+\usepackage{fontspec} % For loading fonts
+\defaultfontfeatures{Mapping=tex-text}
+\setmainfont[SmallCapsFont = Fontin SmallCaps]{Fontin} % Main document font
+
+\usepackage{xunicode,xltxtra,url,parskip} % Formatting packages
+
+\usepackage[usenames,dvipsnames]{xcolor} % Required for specifying custom colors
+
+\usepackage[big]{layaureo} % Margin formatting of the A4 page, an alternative to layaureo can be \usepackage{fullpage}
+% To reduce the height of the top margin uncomment: \addtolength{\voffset}{-1.3cm}
+
+\usepackage{hyperref} % Required for adding links	and customizing them
+\definecolor{linkcolour}{rgb}{0,0.2,0.6} % Link color
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour,linkcolor=linkcolour} % Set link colors throughout the document
+
+\usepackage{titlesec} % Used to customize the \section command
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule] % Text formatting of sections
+\titlespacing{\section}{0pt}{3pt}{3pt} % Spacing around sections
+
+\begin{document}
+
+\pagestyle{empty} % Removes page numbering
+
+\font\fb=''[cmr10]'' % Change the font of the \LaTeX command under the skills section
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\par{\centering{\Huge John \textsc{Smith}}\bigskip\par} % Your name
+
+\section{Personal Data}
+
+\begin{tabular}{rl}
+\textsc{Place and Date of Birth:} & Canada  | 20 November 1987 \\
+\textsc{Address:} & 123 Broadway, City, State, Canada \\
+\textsc{Phone:} & +1 111 1112\\
+\textsc{email:} & \href{mailto:john@smith.com}{john@smith.com}
+\end{tabular}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE 
+%----------------------------------------------------------------------------------------
+
+\section{Work Experience}
+
+\begin{tabular}{r|p{11cm}}
+\emph{Current} & 1\textsuperscript{st} year Analyst at \textsc{Lehman Brothers}, London \\
+\textsc{Mar 2012} & \emph{Commodities Structured Trading}\\ 
+& \footnotesize{Developed spreadsheets for risk analysis on exotic derivatives on a wide array of commodities (\textit{ags, oils, precious} and \textit{base metals}), managed blotter and secondary trades on structured notes, liaised with Middle Office, Sales and Structuring for bookkeeping.}\\
+\multicolumn{2}{c}{} \\
+
+%------------------------------------------------
+
+\textsc{Jul 2010-Oct 2011} & Summer Intern at \textsc{Intech Inc}, Chicago \emph{}\\
+& \footnotesize{Received pre-placed offer from the Exotics Trading Desk as a result of very positive review. Rated ``\emph{truly distinctive}'' for Analytical Skills and Teamwork.}\\
+\multicolumn{2}{c}{} \\
+
+%------------------------------------------------
+
+\textsc{Jan-Mar 2011} & Computer Technician at \textsc{Buy More}, Burbank \emph{}\\
+& \footnotesize{Worked in the Nerd Herd and helped to solve computer problems by asking customers to turn their computers off and on again.}
+\end{tabular}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+
+\section{Education}
+
+\begin{tabular}{rl}	
+\textsc{July} 2012 & Master of Commerce in \textsc{Finance}, \textbf{The University of California}, Berkeley\\
+& 110/110 \small\emph{First Class Honours} | Major: Quantitative Finance\\
+& Thesis: ``Money is the Root of All Evil - Or is it?'' | \small Advisor: Prof. James \textsc{Smith}\\
+&\normalsize \textsc{Gpa}: 8.0/9.0\hyperlink{grds}{\hfill | \footnotesize Detailed List of Exams}\\
+&\\
+
+%------------------------------------------------
+
+\textsc{July} 2011& Undergraduate Degree in \textsc{}\textsc{Business Studies} \\&110/110 \small\emph{Commerce Specialization}, \normalsize\textbf{The University of California}, Berkeley\\
+& Heavily specialized in mundane paperwork | \small Advisor: Stefano \textsc{Bonini}\\
+&\normalsize \textsc{Gpa}: 7.5/9.0 \hyperlink{grds_usc}{\hfill| \footnotesize Detailed List of Exams}\\
+&\\
+
+%------------------------------------------------
+
+\textsc{Fall} 2008 & Exchange Semester at \textbf{University of Southern California}, Los Angeles\\
+& \textsc{Gpa}: 8.0/9.0 \hyperlink{grds_usc}{\hfill| \footnotesize Detailed List of Exams}\\
+&\\
+
+%------------------------------------------------
+
+\textsc{July} 2006& \textbf{Liceo Classico ``E. Duni''}, Matera | Final Grade: 100/100
+\end{tabular}
+
+%----------------------------------------------------------------------------------------
+%	SCHOLARSHIPS AND ADDITIONAL INFO
+%----------------------------------------------------------------------------------------
+
+\section{Scholarships and Certificates}
+
+\begin{tabular}{rl}
+\textsc{Sept.} 2012 & Faculty of Science Masters Scholarship \footnotesize(\$30,000)\normalsize\\
+
+\textsc{June} 2010 & {\textsc{Gmat}\textregistered}\setmainfont[SmallCapsFont=Fontin SmallCaps]{Fontin-Regular}: 730 (\textsc{q:50;v:39}) 96\textsuperscript{th} percentile; \textsc{awa}: 6.0/6.0 (89\textsuperscript{th} percentile)
+\end{tabular}
+
+%----------------------------------------------------------------------------------------
+%	LANGUAGES
+%----------------------------------------------------------------------------------------
+
+\section{Languages}
+
+\begin{tabular}{rl}
+\textsc{English:} & Fluent\\
+
+\textsc{Italian:} & Mothertongue\\
+
+\textsc{French:} & Basic Knowledge\\
+\end{tabular}
+
+%----------------------------------------------------------------------------------------
+%	COMPUTER SKILLS 
+%----------------------------------------------------------------------------------------
+
+\section{Computer Skills}
+
+\begin{tabular}{rl}
+Basic Knowledge: & \textsc{php}, my\textsc{sql}, \textsc{html}, Access, \textsc{Linux}, ubuntu, {\fb \LaTeX}\setmainfont[SmallCapsFont=Fontin SmallCaps]{Fontin-Regular}\\
+
+Intermediate Knowledge: & \textsc{vba}, Excel, Word, PowerPoint\\
+\end{tabular}
+
+%----------------------------------------------------------------------------------------
+%	INTERESTS AND ACTIVITIES
+%----------------------------------------------------------------------------------------
+
+\section{Interests and Activities}
+
+Technology, Open-Source, Programming\\
+Paradoxes in Decision Making, Psychoanalysis, Behavioural Finance\\
+Football, Travelling
+
+%----------------------------------------------------------------------------------------
+
+\newpage
+
+%----------------------------------------------------------------------------------------
+%	GRADE TABLES
+%----------------------------------------------------------------------------------------
+
+\par{\centering\Large \hypertarget{grds}{Master of Science in \textsc{Finance}}\par}\large{\centering Grades\par}\normalsize
+
+\begin{center}
+\begin{tabular}{lcc}
+\multicolumn{1}{c}{\textsc{Exam}} & \textsc{Grade}&\textsc{Credit Hrs}\\ \hline
+Corporate Finance (Valuation) & 25 & 6\\
+Financial Statement Analysis & 28 & 6\\
+Statistics & 27 & 6\\
+Theory of Finance & 26 & 6\\
+Quantitative Methods for Finance & 30 & 6\\
+Econometrics & 24 & 6\\
+Derivatives & 31 & 6\\
+Management of Financial and Insurance Companies & 30 & 6\\
+Business Law & 31 & 6\\
+Investment Banking	& 28 & 6\\ \\		
+Behavioral Models for Economics and Finance	 & 29 & 6\\
+Numerical Methods for Finance & 29 & 6\\
+Advanced Derivatives & 30 & 6\\
+Fixed Income (Advanced Methods) & 30 & 6\\ \\
+English Language & 30 &	4\\
+French Language & 31 &	4\\	
+Internship & & 8\\		
+Final Thesis & & 20\\	
+& Total & 120\\\cline{2-3}
+&\textsc{Gpa}&\textbf{8.0}
+\end{tabular}
+\end{center}
+\bigskip
+\hrule
+\bigskip
+
+%------------------------------------------------
+
+\bigskip
+
+\par{\centering\Large \hypertarget{grds_usc}{Exchange Program at \textsc{usc}, Los Angeles}\par}\large{\centering Grades\par}\normalsize
+
+\begin{center}
+\begin{tabular}{lcc}
+\multicolumn{1}{c}{\textsc{Exam}} & \textsc{Grade} & \textsc{Grade Points}\\ 
+\hline
+Corporate Financial Strategy & A & 4\\
+Derivatives & A & 4\\
+Money, Credit, and Banking & A & 4\\
+Business Strategy & A- & 3.5\\
+& &\\\cline{2-3}
+& \textsc{Gpa} & \textbf{3.875}
+\end{tabular}
+\end{center}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}

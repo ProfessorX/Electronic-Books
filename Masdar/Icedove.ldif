@@ -1,0 +1,169 @@
+dn: cn=Mukesh Jha,mail=mjha@masdar.ac.ae
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Mukesh
+sn: Jha
+cn: Mukesh Jha
+mail: mjha@masdar.ac.ae
+modifytimestamp: 0
+
+dn: cn=Emrill Helpdesk,mail=emrillhelpdesk@masdar.ac.ae
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Emrill
+sn: Helpdesk
+cn: Emrill Helpdesk
+mail: emrillhelpdesk@masdar.ac.ae
+modifytimestamp: 1387882070
+
+dn: mail=mcounts@masdar.ac.ae
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+mail: mcounts@masdar.ac.ae
+modifytimestamp: 1387882070
+
+dn: mail=admissions@masdar.ac.ae
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+mail: admissions@masdar.ac.ae
+modifytimestamp: 0
+
+dn: mail=miki.yu@taisha.org
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+mail: miki.yu@taisha.org
+modifytimestamp: 0
+
+dn: mail=OAP@masdar.ac.ae
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+mail: OAP@masdar.ac.ae
+modifytimestamp: 1388925365
+
+dn: mail=aafshari@masdar.ac.ae
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+mail: aafshari@masdar.ac.ae
+modifytimestamp: 1389270671
+
+dn: mail=keys@iesve.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+mail: keys@iesve.com
+modifytimestamp: 1389043918
+
+dn: cn=Lilibeth Ocampo,mail=locampo_REED@masdar.ae
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Lilibeth
+sn: Ocampo
+cn: Lilibeth Ocampo
+mail: locampo_REED@masdar.ae
+modifytimestamp: 0
+
+dn: cn=info@iesve.com,mail=info@iesve.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+cn: info@iesve.com
+mail: info@iesve.com
+modifytimestamp: 0
+
+dn: cn=Rohan Rawte,mail=rohan.rawte@iesve.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Rohan
+sn: Rawte
+cn: Rohan Rawte
+mail: rohan.rawte@iesve.com
+modifytimestamp: 1389278063
+
+dn: cn=Faisal Alkaabneh,mail=falkaabneh@masdar.ac.ae
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+givenName: Faisal
+sn: Alkaabneh
+cn: Faisal Alkaabneh
+mail: falkaabneh@masdar.ac.ae
+modifytimestamp: 1389134110
+
+dn: mail=icthelpdesk@masdar.ac.ae
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+mail: icthelpdesk@masdar.ac.ae
+modifytimestamp: 0
+
+dn: mail=stan@masdar.ac.ae
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+mail: stan@masdar.ac.ae
+modifytimestamp: 0
+
+dn: mail=ictservicedesk@masdar.ac.ae
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+mail: ictservicedesk@masdar.ac.ae
+modifytimestamp: 0
+
+dn: mail=support@iesvs.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+mail: support@iesvs.com
+modifytimestamp: 0
+
+dn: mail=support@iesve.com
+objectclass: top
+objectclass: person
+objectclass: organizationalPerson
+objectclass: inetOrgPerson
+objectclass: mozillaAbPersonAlpha
+mail: support@iesve.com
+modifytimestamp: 0
+

@@ -1,0 +1,1255 @@
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/Debian) (preloaded format=xelatex 2014.8.28)  3 SEP 2014 15:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\input Yxiao_CV.tex
+(./Yxiao_CV.tex (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/ctexcap.sty
+Package: ctexcap 2014/06/09 v1.02d ctexcap macros package
+
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/opt/ctex-common-opts.def)
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/opt/ctex-caption-opts.def
+\c@CTEX@sectiondepth=\count88
+)
+
+! LaTeX Error: Unknown option `noident' for package `ctexcap'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 
+     
+The option `noident' was not declared in package `ctexcap', perhaps you
+misspelled its name. Try typing  <return>  to proceed.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/def/ctex-common.def
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2014/07/20 v5241 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2014/07/20 v5241 L3 programming layer (code) 
+L3 Module: l3bootstrap 2014/05/26 v4889 L3 Bootstrap code
+
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count89
+)
+L3 Module: l3names 2014/06/02 v4993 L3 Namespace for primitives
+L3 Module: l3basics 2014/07/09 v5187 L3 Basic definitions
+L3 Module: l3expan 2014/06/16 v5146 L3 Argument expansion
+L3 Module: l3tl 2014/07/17 v5214 L3 Token lists
+L3 Module: l3str 2014/06/19 v5158 L3 Strings
+L3 Module: l3seq 2014/07/18 v5232 L3 Sequences and stacks
+L3 Module: l3int 2014/07/11 v5197 L3 Integers
+\c_max_int=\count90
+\l_tmpa_int=\count91
+\l_tmpb_int=\count92
+\g_tmpa_int=\count93
+\g_tmpb_int=\count94
+L3 Module: l3quark 2014/05/26 v4889 L3 Quarks
+L3 Module: l3prg 2014/05/04 v4728 L3 Control structures
+\g__prg_map_int=\count95
+L3 Module: l3clist 2014/07/19 v5237 L3 Comma separated lists
+L3 Module: l3token 2014/05/26 v4889 L3 Experimental token manipulation
+L3 Module: l3prop 2014/07/17 v5215 L3 Property lists
+L3 Module: l3msg 2014/05/30 v4943 L3 Messages
+L3 Module: l3file 2014/07/09 v5188 L3 File and I/O operations
+\l_iow_line_count_int=\count96
+\l__iow_target_count_int=\count97
+\l__iow_current_line_int=\count98
+\l__iow_current_word_int=\count99
+\l__iow_current_indentation_int=\count100
+L3 Module: l3skip 2014/07/17 v5211 L3 Dimensions and skips
+\c_zero_dim=\dimen103
+\c_max_dim=\dimen104
+\l_tmpa_dim=\dimen105
+\l_tmpb_dim=\dimen106
+\g_tmpa_dim=\dimen107
+\g_tmpb_dim=\dimen108
+\c_zero_skip=\skip43
+\c_max_skip=\skip44
+\l_tmpa_skip=\skip45
+\l_tmpb_skip=\skip46
+\g_tmpa_skip=\skip47
+\g_tmpb_skip=\skip48
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+L3 Module: l3keys 2014/06/12 v5121 L3 Key-value interfaces
+\g__keyval_level_int=\count101
+\l_keys_choice_int=\count102
+L3 Module: l3fp 2014/07/18 v5223 L3 Floating points
+\c__fp_leading_shift_int=\count103
+\c__fp_middle_shift_int=\count104
+\c__fp_trailing_shift_int=\count105
+\c__fp_big_leading_shift_int=\count106
+\c__fp_big_middle_shift_int=\count107
+\c__fp_big_trailing_shift_int=\count108
+\c__fp_Bigg_leading_shift_int=\count109
+\c__fp_Bigg_middle_shift_int=\count110
+\c__fp_Bigg_trailing_shift_int=\count111
+L3 Module: l3box 2014/05/31 v4974 L3 Experimental boxes
+\c_empty_box=\box26
+\l_tmpa_box=\box27
+\l_tmpb_box=\box28
+\g_tmpa_box=\box29
+\g_tmpb_box=\box30
+L3 Module: l3coffins 2014/05/28 v4899 L3 Coffin code layer
+\l__coffin_internal_box=\box31
+\l__coffin_internal_dim=\dimen109
+\l__coffin_offset_x_dim=\dimen110
+\l__coffin_offset_y_dim=\dimen111
+\l__coffin_x_dim=\dimen112
+\l__coffin_y_dim=\dimen113
+\l__coffin_x_prime_dim=\dimen114
+\l__coffin_y_prime_dim=\dimen115
+\c_empty_coffin=\box32
+\l__coffin_aligned_coffin=\box33
+\l__coffin_aligned_internal_coffin=\box34
+\l_tmpa_coffin=\box35
+\l_tmpb_coffin=\box36
+\l__coffin_display_coffin=\box37
+\l__coffin_display_coord_coffin=\box38
+\l__coffin_display_pole_coffin=\box39
+\l__coffin_display_offset_dim=\dimen116
+\l__coffin_display_x_dim=\dimen117
+\l__coffin_display_y_dim=\dimen118
+L3 Module: l3color 2014/04/30 v4712 L3 Experimental color support
+L3 Module: l3candidates 2014/07/18 v5232 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen119
+\l__box_bottom_dim=\dimen120
+\l__box_left_dim=\dimen121
+\l__box_right_dim=\dimen122
+\l__box_top_new_dim=\dimen123
+\l__box_bottom_new_dim=\dimen124
+\l__box_left_new_dim=\dimen125
+\l__box_right_new_dim=\dimen126
+\l__box_internal_box=\box40
+\l__coffin_bounding_shift_dim=\dimen127
+\l__coffin_left_corner_dim=\dimen128
+\l__coffin_right_corner_dim=\dimen129
+\l__coffin_bottom_corner_dim=\dimen130
+\l__coffin_top_corner_dim=\dimen131
+\l__coffin_scaled_total_height_dim=\dimen132
+\l__coffin_scaled_width_dim=\dimen133
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3unicode-data.def
+File: l3unicode-data.def 2014/06/30 v5166 L3 Unicode data
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2014/07/18 v5232 L3 Experimental driver: xdvipdfmx
+))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+\etb@tempcnta=\count112
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2014/06/10 v1.1r fixes to LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/engine/ctex-xecjk-engine.def
+(/usr/share/texlive/texmf-dist/tex/latex/savesym/savesym.sty
+Package: savesym 2013/09/02 v1.2 Saves and restores symbols (JG)
+)
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+Package: xeCJK 2014/06/20 v3.2.13 Typesetting CJK scripts with XeLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2014/07/20 v5241 L3 Experimental prototype document function
+s
+\l__xtemplate_tmp_dim=\dimen134
+\l__xtemplate_tmp_int=\count113
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip49
+Variant \prop_get:NoNTF already defined; not changing it on line 106
+Variant \prop_get:NoNT already defined; not changing it on line 107
+Variant \prop_get:NoNF already defined; not changing it on line 108
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2014/07/20 v5241 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count114
+\l__xparse_m_args_int=\count115
+\l__xparse_mandatory_args_int=\count116
+\l__xparse_processor_int=\count117
+\l__xparse_v_nesting_int=\count118
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2014/07/20 v5241 LaTeX2e option processing using LaTeX3 keys
+)
+(/usr/share/texlive/texmf-dist/tex/latex/everypage/everypage.sty
+Package: everypage 2007/06/20 1.1 Hooks to run on every page
+)
+\l__xeCJK_tmp_int=\count119
+\l__xeCJK_tmp_box=\box41
+\l__xeCJK_tmp_dim=\dimen135
+\l__xeCJK_tmp_skip=\skip50
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKShipoutHook with arg. spec. '' on line 145.
+.................................................
+\g__xeCJK_spacefactor_int=\count120
+\l__xeCJK_begin_int=\count121
+\l__xeCJK_end_int=\count122
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \makexeCJKactive with arg. spec. '' on line 363.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \makexeCJKinactive with arg. spec. '' on line 364.
+.................................................
+\c__xeCJK_HalfLeft_class_int=\XeTeXintercharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXintercharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXintercharclass6
+\c__xeCJK_IVS_class_int=\XeTeXintercharclass7
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKDeclareCharClass with arg. spec.
+. 's>{\TrimSpaces }mm' on line 518.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \__xeCJK_set_char_class_aux:Nnw with arg. spec.
+. 'm>{\SplitArgument {1}{->}}m' on line 535.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \normalspacedchars with arg. spec. 'm' on line
+. 577.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKResetPunctClass with arg. spec. '' on line
+. 584.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKResetCharClass with arg. spec. '' on line
+. 591.
+.................................................
+\c__xeCJK_CJK_node_dim=\dimen136
+\c__xeCJK_CJK-space_node_dim=\dimen137
+\c__xeCJK_default_node_dim=\dimen138
+\c__xeCJK_default-space_node_dim=\dimen139
+\c__xeCJK_CJK-nobreak_node_dim=\dimen140
+\c__xeCJK_normalspace_node_dim=\dimen141
+\l__xeCJK_ccglue_skip=\skip51
+\l__xeCJK_ecglue_skip=\skip52
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKnobreak with arg. spec. '' on line 1308.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKDeclareSubCJKBlock with arg. spec.
+. 's>{\TrimSpaces }m>{\TrimSpaces }m' on line 1497.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKCancelSubCJKBlock with arg. spec. 'sm' on
+. line 1508.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKRestoreSubCJKBlock with arg. spec. 'sm' on
+. line 1517.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKsetwidth with arg. spec. 'smm' on line 1615.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKsetkern with arg. spec. 'mmm' on line 1619.
+.................................................
+.................................................
+. xtemplate info: "declare-object-type"
+. 
+. Declaring object type 'xeCJK/punctuation' taking \c_zero  argument(s) on
+. line 1720.
+.................................................
+\l__xeCJK_fixed_punct_width_dim=\dimen142
+\l__xeCJK_mixed_punct_width_dim=\dimen143
+\l__xeCJK_middle_punct_width_dim=\dimen144
+\l__xeCJK_fixed_margin_width_dim=\dimen145
+\l__xeCJK_mixed_margin_width_dim=\dimen146
+\l__xeCJK_middle_margin_width_dim=\dimen147
+\l__xeCJK_bound_punct_width_dim=\dimen148
+\l__xeCJK_bound_margin_width_dim=\dimen149
+\l__xeCJK_margin_minimum_dim=\dimen150
+\l__xeCJK_kerning_total_width_dim=\dimen151
+\l__xeCJK_same_align_margin_dim=\dimen152
+\l__xeCJK_different_align_margin_dim=\dimen153
+\l__xeCJK_kerning_margin_width_dim=\dimen154
+\l__xeCJK_kerning_margin_minimum_dim=\dimen155
+\l__xeCJK_bound_dim=\dimen156
+\l__xeCJK_reverse_bound_dim=\dimen157
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKDeclarePunctStyle with arg. spec.
+. '>{\TrimSpaces }mm' on line 2205.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKEditPunctStyle with arg. spec.
+. '>{\TrimSpaces }mm' on line 2218.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setCJKfallbackfamilyfont with arg. spec. 'mO{}m'
+. on line 2306.
+.................................................
+\g__xeCJK_family_int=\count123
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \CJKfamily with arg. spec. 't+t-m' on line 2730.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \__xeCJK_gobble_CJKfamily:wn with arg. spec.
+. 't+t-m' on line 2744.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setCJKmainfont with arg. spec. 'O{}m' on line
+. 2794.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setCJKsansfont with arg. spec. 'O{}m' on line
+. 2800.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setCJKmonofont with arg. spec. 'O{}m' on line
+. 2805.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setCJKfamilyfont with arg. spec. 'mO{}m' on line
+. 2812.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newCJKfontfamily with arg. spec. 'omO{}m' on line
+. 2818.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \CJKfontspec with arg. spec. 'O{}m' on line 2823.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \defaultCJKfontfeatures with arg. spec. 'm' on
+. line 2846.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \addCJKfontfeatures with arg. spec. 'sO{}m' on
+. line 2852.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setCJKmathfont with arg. spec. 'O{}m' on line
+. 3021.
+.................................................
+\l__xeCJK_verb_case_int=\count124
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKVerbAddon with arg. spec. '' on line 3174.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKOffVerbAddon with arg. spec. '' on line
+. 3178.
+.................................................
+\l__xeCJK_verb_exspace_skip=\skip53
+
+*************************************************
+* xeCJK warning: "option-deprecated"
+* 
+* The `normalindentfirst' option is deprecated.
+* 
+*************************************************
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2014/06/21 v2.4a Font selection for XeLaTeX and LuaLaTeX
+\l_fontspec_script_int=\count125
+\l_fontspec_language_int=\count126
+\l_fontspec_strnum_int=\count127
+\l__fontspec_tmpa_dim=\dimen158
+\l__fontspec_tmpb_dim=\dimen159
+\l__fontspec_tmpc_dim=\dimen160
+Variant \tl_gset:cV already defined; not changing it on line 71
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-patches.sty
+Package: fontspec-patches 2014/06/21 v2.4a Font selection for XeLaTeX and LuaLa
+TeX
+LaTeX Info: Redefining \em on input line 38.
+LaTeX Info: Redefining \emph on input line 46.
+LaTeX Info: Redefining \- on input line 49.
+
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \oldstylenums with arg. spec. 'm' on line 144.
+*************************************************
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \liningnums with arg. spec. 'm' on line 148.
+.................................................
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2014/06/21 v2.4a Font selection for XeLaTeX and LuaLaTe
+X
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1enc.def
+File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
+)
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 100.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmr.fd
+File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+(/usr/share/texmf/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmss.fd
+File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+\tipaTiiicode=\count128
+\tipasavetokens=\toks15
+\tipachecktokens=\toks16
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2014/07/25 v4.03 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+\Gin@req@height=\dimen161
+\Gin@req@width=\dimen162
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \fontspec with arg. spec. 'O{}mO{}' on line 41.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmainfont with arg. spec. 'O{}mO{}' on line 47.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setsansfont with arg. spec. 'O{}mO{}' on line 53.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmonofont with arg. spec. 'O{}mO{}' on line 59.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathrm with arg. spec. 'O{}mO{}' on line 68.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setboldmathrm with arg. spec. 'O{}mO{}' on line
+. 72.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathsf with arg. spec. 'O{}mO{}' on line 76.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \setmathtt with arg. spec. 'O{}mO{}' on line 80.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontfamily with arg. spec. 'mO{}mO{}' on line
+. 99.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontface with arg. spec. 'mO{}mO{}' on line
+. 103.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \defaultfontfeatures with arg. spec. 't+om' on
+. line 112.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \addfontfeatures with arg. spec. 'm' on line 170.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontfeature with arg. spec. 'mm' on line 181.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newAATfeature with arg. spec. 'mmmm' on line 189.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newopentypefeature with arg. spec. 'mmm' on line
+. 197.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \aliasfontfeature with arg. spec. 'mm' on line
+. 226.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \aliasfontfeatureoption with arg. spec. 'mmm' on
+. line 228.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontscript with arg. spec. 'mm' on line 233.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \newfontlanguage with arg. spec. 'mm' on line 259.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareFontsExtensions with arg. spec. 'm' on
+. line 279.
+.................................................
+Variant \prop_gput:cnV already defined; not changing it on line 662
+Variant \prop_gput:cnx already defined; not changing it on line 663
+\l__fontspec_tmp_int=\count129
+LaTeX Info: Redefining \itshape on input line 2193.
+LaTeX Info: Redefining \slshape on input line 2198.
+LaTeX Info: Redefining \scshape on input line 2203.
+LaTeX Info: Redefining \upshape on input line 2208.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xunicode-addon.sty
+Package: xunicode-addon 2014/06/20 v3.2.13 addon file for xunicode
+
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \ReloadXunicode with arg. spec. 'm' on line 89.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \DeclareUTFmathsymbols with arg. spec. 'm' on
+* line 124.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \UseMathAsText with arg. spec. '' on line 133.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \UndeclareUTFcharacter with arg. spec.
+* 'O{\UTFencname }mm' on line 168.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \UndeclareUTFcomposite with arg. spec.
+* 'O{\UTFencname }mmm' on line 175.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \DeclareUTFcharacter with arg. spec.
+* 'O{\UTFencname }mm' on line 202.
+*************************************************
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareUTFSymbol with arg. spec. 'mO{\UTFencname
+. }m' on line 228.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareUTFCommand with arg. spec. 'mO{\UTFencname
+. }m' on line 230.
+.................................................
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \DeclareUTFcomposite with arg. spec.
+* 'O{\UTFencname }mmm' on line 273.
+*************************************************
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareUTFCompositeCommand with arg. spec.
+. 'mO{\UTFencname }mm' on line 286.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareUTFCompositeSymbol with arg. spec.
+. 'mO{\UTFencname }mm' on line 291.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareUTFComposite with arg. spec.
+. 'mO{\UTFencname }' on line 293.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareUTFEncodedAccent with arg. spec.
+. 'mO{\UTFencname }mm' on line 295.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareUTFEncodedAccents with arg. spec.
+. 'mO{\UTFencname }mm' on line 297.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareUTFEncodedSymbol with arg. spec.
+. 'mO{\UTFencname }mm' on line 299.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareUTFEncodedCircle with arg. spec.
+. 'mO{\UTFencname }mm' on line 301.
+.................................................
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \DeclareEncodedCompositeCharacter with arg.
+* spec. 'mmmm' on line 303.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \DeclareEncodedCompositeAccents with arg. spec.
+* 'mmmm' on line 305.
+*************************************************
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareUTFDoubleEncodedAccent with arg. spec.
+. 'mO{\UTFencname }mm' on line 307.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareUTFDoubleEncodedSymbol with arg. spec.
+. 'mO{\UTFencname }mm' on line 309.
+.................................................
+\l__xunadd_circle_width_dim=\dimen163
+\l__xunadd_tmp_coffin=\box42
+\l__xunadd_circle_coffin=\box43
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \settextcircledratio with arg. spec. 'm' on line
+. 459.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \AtBeginUTFCommand with arg. spec. 'sO{}+m' on
+. line 528.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \AtEndUTFCommand with arg. spec. 'sO{}+m' on line
+. 538.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareUTFTIPACommand with arg. spec.
+. 'O{\UTFencname }m' on line 570.
+.................................................
+)
+\g__file_internal_ior=\read1
+ (/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+*** Reloading Xunicode for encoding 'EU1' ***
+) (/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xunicode-extra.def
+File: xunicode-extra.def 2014/06/20 v3.2.13 extra definition for xunicode
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKsetup with arg. spec. '+m' on line 3477.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKsetemboldenfactor with arg. spec. 'm' on
+. line 3479.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKsetslantfactor with arg. spec. 'm' on line
+. 3481.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \punctstyle with arg. spec. 'm' on line 3482.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKplainchr with arg. spec. '' on line 3483.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \CJKsetecglue with arg. spec. 'm' on line 3484.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \CJKspace with arg. spec. '' on line 3486.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \CJKnospace with arg. spec. '' on line 3487.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKallowbreakbetweenpuncts with arg. spec. ''
+. on line 3489.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKnobreakbetweenpuncts with arg. spec. '' on
+. line 3491.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKenablefallback with arg. spec. '' on line
+. 3493.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKdisablefallback with arg. spec. '' on line
+. 3495.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \xeCJKsetcharclass with arg. spec. 'mmm' on line
+. 3500.
+.................................................
+
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \nobreakspace with arg. spec. '' on line 3587.
+*************************************************
+*************************************************
+* LaTeX warning: "xparse/redefine-command"
+* 
+* Redefining document command \fontfamily with arg. spec. 'm' on line 3633.
+*************************************************
+(/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/config/xeCJK.cfg
+File: xeCJK.cfg 2014/06/20 v3.2.13 Configuration file for xeCJK package
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/engine/ctex-cjk-common.def
+\ccwd=\dimen164
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/fontset/ctex-xecjk-winfonts.def
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "SimSun" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.5   {SimSun}
+              
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| A font might not be found for many reasons.
+| Check the spelling, where the font is installed etc. etc.
+| 
+| When in doubt, ask someone for help!
+|...............................................
+
+*************************************************
+* fontspec warning: "script-not-exist"
+* 
+* Font 'SimSun' does not contain script 'CJK'.
+*************************************************
+\g__fontspec_family_SimSun_int=\count130
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font [SIMKAI.TTF]/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font SimHei/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font SimSun/BI (it probably doesn't exist).
+.................................................
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "SimSun" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.5   {SimSun}
+              
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| A font might not be found for many reasons.
+| Check the spelling, where the font is installed etc. etc.
+| 
+| When in doubt, ask someone for help!
+|...............................................
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "SimSun" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.5   {SimSun}
+              
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| A font might not be found for many reasons.
+| Check the spelling, where the font is installed etc. etc.
+| 
+| When in doubt, ask someone for help!
+|...............................................
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "SimHei" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.5   {SimSun}
+              
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| A font might not be found for many reasons.
+| Check the spelling, where the font is installed etc. etc.
+| 
+| When in doubt, ask someone for help!
+|...............................................
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "SimHei" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.5   {SimSun}
+              
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| A font might not be found for many reasons.
+| Check the spelling, where the font is installed etc. etc.
+| 
+| When in doubt, ask someone for help!
+|...............................................
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "[SIMKAI.TTF]" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.5   {SimSun}
+              
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| A font might not be found for many reasons.
+| Check the spelling, where the font is installed etc. etc.
+| 
+| When in doubt, ask someone for help!
+|...............................................
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "[SIMKAI.TTF]" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.5   {SimSun}
+              
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| A font might not be found for many reasons.
+| Check the spelling, where the font is installed etc. etc.
+| 
+| When in doubt, ask someone for help!
+|...............................................
+
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'SimSun(0)' created for font 'SimSun' with options
+. [Ligatures=TeX,Script={CJK},BoldFont={SimHei},ItalicFont={[SIMKAI.TTF]}].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"SimSun/OT:mapping=tex-text;"
+. 
+. * 'small caps' with NFSS spec.:
+. <->"SimSun/OT:mapping=tex-text;"
+. and font adjustment code:
+. 
+. 
+. * 'bold' with NFSS spec.:
+. <->"SimHei/OT:mapping=tex-text;"
+. 
+. * 'bold small caps' with NFSS spec.:
+. <->"SimHei/OT:mapping=tex-text;"
+. and font adjustment code:
+. 
+. 
+. * 'italic' with NFSS spec.:
+. <->"[SIMKAI.TTF]/OT:mapping=tex-text;"
+. 
+. * 'small caps' with NFSS spec.:
+. <->"[SIMKAI.TTF]/OT:mapping=tex-text;"
+. and font adjustment code:
+. 
+.................................................
+))
+\CTEX@q=\count131
+\CTEX@r=\count132
+) (/usr/share/texlive/texmf-dist/tex/latex/ctex/def/ctex-caption.def)
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/def/ctex-article.def))
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/def/ctex-utf8.def)
+(/usr/share/texlive/texmf-dist/tex/latex/ctex/cfg/ctex.cfg)
+! Undefined control sequence.
+<recently read> \serCJKmainfont 
+                                
+l.12 \serCJKmainfont
+                    {AR PL SungtiL GB}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \serCJKmainfont{A
+                      R PL SungtiL GB}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+(./Yxiao_CV.aux)
+\openout1 = `Yxiao_CV.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 14.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 14.
+ (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 14.
+.................................................
+. fontspec info: "setup-math"
+. 
+. Adjusting the maths setup (use [no-math] to avoid this).
+.................................................
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 14.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 14.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 14.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 14.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 14.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 14.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 14.
+LaTeX Font Info:    Redeclaring math accent \check on input line 14.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 14.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 14.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 14.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 14.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 14.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 14.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> EU1/lmr/m/n on input line 14.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 14.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> EU1/lmr/m/n on input line 14.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 14.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> EU1/lmr/m/it on input line 14.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> EU1/lmr/bx/n on input line 14.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 14.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 14.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 14.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> EU1/lmr/bx/it on input line 14.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 14.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 14.
+
+! Font EU1/SimSun(0)/m/n/10=SimSun/OT:mapping=tex-text; at 10.0pt not loadable:
+ Metric (TFM) file or installed font not found.
+<to be read again> 
+                   relax 
+l.15 地
+        址：哈里发城A，马斯达尔科技学院，54224，阿布扎�...
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no 地 in font nullfont!
+Missing character: There is no 址 in font nullfont!
+Missing character: There is no ： in font nullfont!
+Missing character: There is no 哈 in font nullfont!
+Missing character: There is no 里 in font nullfont!
+Missing character: There is no 发 in font nullfont!
+Missing character: There is no 城 in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 马 in font nullfont!
+Missing character: There is no 斯 in font nullfont!
+Missing character: There is no 达 in font nullfont!
+Missing character: There is no 尔 in font nullfont!
+Missing character: There is no 科 in font nullfont!
+Missing character: There is no 技 in font nullfont!
+Missing character: There is no 学 in font nullfont!
+Missing character: There is no 院 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 阿 in font nullfont!
+Missing character: There is no 布 in font nullfont!
+Missing character: There is no 扎 in font nullfont!
+Missing character: There is no 比 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 阿 in font nullfont!
+Missing character: There is no 联 in font nullfont!
+Missing character: There is no 酋 in font nullfont!
+[1
+
+] (./Yxiao_CV.aux) ) 
+Here is how much of TeX's memory you used:
+ 17952 strings out of 493731
+ 372158 string characters out of 6147925
+ 386961 words of memory out of 5000000
+ 21175 multiletter control sequences out of 15000+600000
+ 3680 words of font info for 19 fonts, out of 8000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 63i,4n,71p,10374b,215s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Yxiao_CV.pdf (1 page).
