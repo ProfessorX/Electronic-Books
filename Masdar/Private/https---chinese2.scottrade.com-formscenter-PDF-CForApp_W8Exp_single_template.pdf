@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve">
+<fields>
+<field name="MailingAddressEn">
+<value>No. 2 Middle School, Shaoshui West Road</value>
+</field><field name="SecondPhone">
+<value>0086-13607478781</value>
+</field><field name="OfficeHeld">
+<value></value>
+</field><field name="HomeCity">
+<value></value>
+</field><field name="MailingCity">
+<value></value>
+</field><field name="MailingZipCodeEn">
+<value>422000</value>
+</field><field name="HomeCountryCode">
+<value>CH</value>
+</field><field name="Relationship">
+<value></value>
+</field><field name="SecCompanyInfo">
+<value></value>
+</field><field name="MailingCountryCodeEn">
+<value>CH</value>
+</field><field name="MailingStateEn">
+<value>Hunan</value>
+</field><field name="AccountName">
+<value>Yanan Xiao</value>
+</field><field name="FundType">
+<value>0</value>
+</field><field name="SecondaryPhoneType">
+<value>2</value>
+</field><field name="OfficePhone">
+<value>971-55-9822753</value>
+</field><field name="Occupation">
+<value>Student </value>
+</field><field name="LastName">
+<value>Xiao</value>
+</field><field name="AccountAddress">
+<value>No. 2 Middle School, Shaoshui West Road</value>
+</field><field name="HomeZipCodeEn">
+<value>422000</value>
+</field><field name="ControlPerson">
+<value>0</value>
+</field><field name="OfficialName">
+<value></value>
+</field><field name="Nationality">
+<value>CH</value>
+</field><field name="MailAddressSame">
+<value>true</value>
+</field><field name="MailingAddress">
+<value>64302</value>
+</field><field name="MailingCountry">
+<value>China</value>
+</field><field name="MailingState">
+<value></value>
+</field><field name="AffiliatedSecurityFirm">
+<value>0</value>
+</field><field name="IDExpirationDate">
+<value>2022/2/7</value>
+</field><field name="MailingCityEn">
+<value>Shaoyang</value>
+</field><field name="AccountType">
+<value>1</value>
+</field><field name="EmploymentTypeCode">
+<value>5</value>
+</field><field name="FundingSource">
+<value>Saving</value>
+</field><field name="CompanyName">
+<value></value>
+</field><field name="HomeCountryCodeEn">
+<value>CH</value>
+</field><field name="Page2Processed">
+<value>true</value>
+</field><field name="FundingSource_Inheritance">
+<value>0</value>
+</field><field name="SelfEmploymentType">
+<value></value>
+</field><field name="InterestedInOption">
+<value>0</value>
+</field><field name="CompanyPosition">
+<value></value>
+</field><field name="MailingCityStateZipEn">
+<value>Shaoyang, Hunan 422000</value>
+</field><field name="FundingSource_Saving">
+<value>1</value>
+</field><field name="ID_Number">
+<value>G58272672</value>
+</field><field name="FundingSource_Retirement">
+<value>0</value>
+</field><field name="Page1Processed">
+<value>true</value>
+</field><field name="FirstName">
+<value>Yanan</value>
+</field><field name="DepositTimes">
+<value>1-10</value>
+</field><field name="PageProcessing">
+<value>7</value>
+</field><field name="HomeZipCode">
+<value>422000</value>
+</field><field name="Page6Processed">
+<value>true</value>
+</field><field name="HomeAddress">
+<value>64302</value>
+</field><field name="Page3Processed">
+<value>true</value>
+</field><field name="ComplianceInfo">
+<value></value>
+</field><field name="IDTypeCode">
+<value>1</value>
+</field><field name="FundingSource_Investment">
+<value>0</value>
+</field><field name="Fax">
+<value></value>
+</field><field name="AccountCityStateZip">
+<value>Shaoyang, Hunan, 422000</value>
+</field><field name="Email">
+<value>abraham.x91@gmail.com</value>
+</field><field name="SourceCode">
+<value>A</value>
+</field><field name="ApplicationComplete">
+<value>true</value>
+</field><field name="MailingCountryCode">
+<value>CH</value>
+</field><field name="WithdrawalTimes">
+<value>1-10</value>
+</field><field name="PersonID">
+<value>276235</value>
+</field><field name="AccountCountry">
+<value>China</value>
+</field><field name="SessionFixationValue">
+<value>dhbEYhN4tgL6RJwxPIZpdgteh3cykCVE9U1EvoO22KU</value>
+</field><field name="Citizenship">
+<value>CH</value>
+</field><field name="HomeState">
+<value></value>
+</field><field name="HomeCityEn">
+<value>Shaoyang</value>
+</field><field name="MailingCountryEn">
+<value>China</value>
+</field><field name="HomeStateEn">
+<value>Hunan</value>
+</field><field name="FirstNameIntl">
+<value></value>
+</field><field name="PrimaryPhoneType">
+<value>2</value>
+</field><field name="LastNameIntl">
+<value></value>
+</field><field name="MailingZipCode">
+<value>422000</value>
+</field><field name="Title">
+<value>Mr.</value>
+</field><field name="CountryServed">
+<value></value>
+</field><field name="ImageValidationText">
+<value>NQCPK</value>
+</field><field name="HomePhone">
+<value>971-559822753</value>
+</field><field name="Date">
+<value>11/4/2014</value>
+</field><field name="CompanyAddress">
+<value></value>
+</field><field name="Birthday">
+<value>1991/9/23</value>
+</field><field name="InterestConflict">
+<value>0</value>
+</field><field name="Language">
+<value>gb2312</value>
+</field><field name="TransferAmount">
+<value>0-10000</value>
+</field><field name="FundingSourceOther">
+<value></value>
+</field><field name="HomeAddressEn">
+<value>No. 2 Middle School, Shaoshui West Road</value>
+</field><field name="MailingCityStateZip">
+<value>,  422000</value>
+</field></fields>
+<f href="https://chinese2.scottrade.com/formscenter/PDF/CForApp_W8Exp_single_template.pdf"/>
+</xfdf>
