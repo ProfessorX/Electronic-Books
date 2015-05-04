@@ -1,12 +1,13 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/Debian) (preloaded format=xelatex 2014.9.13)  16 SEP 2014 22:36
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2015.5.4)  3 MAY 2015 23:35
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **\input cv_9.tex
 (./cv_9.tex (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@section=\count81
@@ -24,42 +25,42 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 Package: fontspec 2014/06/21 v2.4a Font selection for XeLaTeX and LuaLaTeX
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2014/07/20 v5241 L3 programming layer (loader) 
+Package: expl3 2014/09/15 v5423 L3 programming layer (loader) 
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2014/07/20 v5241 L3 programming layer (code) 
-L3 Module: l3bootstrap 2014/05/26 v4889 L3 Bootstrap code
+Package: expl3 2014/09/15 v5423 L3 programming layer (code) 
+L3 Module: l3bootstrap 2014/08/23 v5354 L3 Bootstrap code
 
 (/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
 \et@xins=\count88
 )
-L3 Module: l3names 2014/06/02 v4993 L3 Namespace for primitives
-L3 Module: l3basics 2014/07/09 v5187 L3 Basic definitions
-L3 Module: l3expan 2014/06/16 v5146 L3 Argument expansion
-L3 Module: l3tl 2014/07/17 v5214 L3 Token lists
-L3 Module: l3str 2014/06/19 v5158 L3 Strings
-L3 Module: l3seq 2014/07/18 v5232 L3 Sequences and stacks
-L3 Module: l3int 2014/07/11 v5197 L3 Integers
+L3 Module: l3names 2014/08/22 v5343 L3 Namespace for primitives
+L3 Module: l3basics 2014/08/24 v5364 L3 Basic definitions
+L3 Module: l3expan 2014/08/22 v5349 L3 Argument expansion
+L3 Module: l3tl 2014/08/24 v5359 L3 Token lists
+L3 Module: l3str 2014/08/24 v5368 L3 Strings
+L3 Module: l3seq 2014/08/23 v5354 L3 Sequences and stacks
+L3 Module: l3int 2014/09/14 v5421 L3 Integers
 \c_max_int=\count89
 \l_tmpa_int=\count90
 \l_tmpb_int=\count91
 \g_tmpa_int=\count92
 \g_tmpb_int=\count93
-L3 Module: l3quark 2014/05/26 v4889 L3 Quarks
-L3 Module: l3prg 2014/05/04 v4728 L3 Control structures
+L3 Module: l3quark 2014/08/23 v5354 L3 Quarks
+L3 Module: l3prg 2014/08/23 v5354 L3 Control structures
 \g__prg_map_int=\count94
-L3 Module: l3clist 2014/07/19 v5237 L3 Comma separated lists
-L3 Module: l3token 2014/05/26 v4889 L3 Experimental token manipulation
-L3 Module: l3prop 2014/07/17 v5215 L3 Property lists
-L3 Module: l3msg 2014/05/30 v4943 L3 Messages
-L3 Module: l3file 2014/07/09 v5188 L3 File and I/O operations
+L3 Module: l3clist 2014/08/23 v5354 L3 Comma separated lists
+L3 Module: l3token 2014/09/15 v5422 L3 Experimental token manipulation
+L3 Module: l3prop 2014/08/23 v5354 L3 Property lists
+L3 Module: l3msg 2014/08/24 v5358 L3 Messages
+L3 Module: l3file 2014/08/24 v5369 L3 File and I/O operations
 \l_iow_line_count_int=\count95
 \l__iow_target_count_int=\count96
 \l__iow_current_line_int=\count97
 \l__iow_current_word_int=\count98
 \l__iow_current_indentation_int=\count99
-L3 Module: l3skip 2014/07/17 v5211 L3 Dimensions and skips
+L3 Module: l3skip 2014/08/23 v5354 L3 Dimensions and skips
 \c_zero_dim=\dimen103
 \c_max_dim=\dimen104
 \l_tmpa_dim=\dimen105
@@ -78,10 +79,10 @@ L3 Module: l3skip 2014/07/17 v5211 L3 Dimensions and skips
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-L3 Module: l3keys 2014/06/12 v5121 L3 Key-value interfaces
+L3 Module: l3keys 2014/08/23 v5354 L3 Key-value interfaces
 \g__keyval_level_int=\count100
 \l_keys_choice_int=\count101
-L3 Module: l3fp 2014/07/18 v5223 L3 Floating points
+L3 Module: l3fp 2014/08/22 v5336 L3 Floating points
 \c__fp_leading_shift_int=\count102
 \c__fp_middle_shift_int=\count103
 \c__fp_trailing_shift_int=\count104
@@ -91,13 +92,13 @@ L3 Module: l3fp 2014/07/18 v5223 L3 Floating points
 \c__fp_Bigg_leading_shift_int=\count108
 \c__fp_Bigg_middle_shift_int=\count109
 \c__fp_Bigg_trailing_shift_int=\count110
-L3 Module: l3box 2014/05/31 v4974 L3 Experimental boxes
+L3 Module: l3box 2014/08/23 v5354 L3 Experimental boxes
 \c_empty_box=\box26
 \l_tmpa_box=\box27
 \l_tmpb_box=\box28
 \g_tmpa_box=\box29
 \g_tmpb_box=\box30
-L3 Module: l3coffins 2014/05/28 v4899 L3 Coffin code layer
+L3 Module: l3coffins 2014/08/23 v5354 L3 Coffin code layer
 \l__coffin_internal_box=\box31
 \l__coffin_internal_dim=\dimen109
 \l__coffin_offset_x_dim=\dimen110
@@ -117,8 +118,8 @@ L3 Module: l3coffins 2014/05/28 v4899 L3 Coffin code layer
 \l__coffin_display_offset_dim=\dimen116
 \l__coffin_display_x_dim=\dimen117
 \l__coffin_display_y_dim=\dimen118
-L3 Module: l3color 2014/04/30 v4712 L3 Experimental color support
-L3 Module: l3candidates 2014/07/18 v5232 L3 Experimental additions to l3kernel
+L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
+L3 Module: l3candidates 2014/08/24 v5366 L3 Experimental additions to l3kernel
 \l__box_top_dim=\dimen119
 \l__box_bottom_dim=\dimen120
 \l__box_left_dim=\dimen121
@@ -137,13 +138,13 @@ L3 Module: l3candidates 2014/07/18 v5232 L3 Experimental additions to l3kernel
 \l__coffin_scaled_width_dim=\dimen133
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3unicode-data.def
-File: l3unicode-data.def 2014/06/30 v5166 L3 Unicode data
+File: l3unicode-data.def 2014/08/12 v5276 L3 Unicode data
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
-File: l3xdvidpfmx.def 2014/07/18 v5232 L3 Experimental driver: xdvipdfmx
+File: l3xdvidpfmx.def 2014/08/24 v5366 L3 Experimental driver: xdvipdfmx
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2014/07/20 v5241 L3 Experimental document command parser
+Package: xparse 2014/09/15 v5423 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count111
 \l__xparse_m_args_int=\count112
 \l__xparse_mandatory_args_int=\count113
@@ -164,18 +165,18 @@ TeX
 LaTeX Info: Redefining \em on input line 38.
 LaTeX Info: Redefining \emph on input line 46.
 LaTeX Info: Redefining \- on input line 49.
-
-*************************************************
-* LaTeX warning: "xparse/redefine-command"
-* 
-* Redefining document command \oldstylenums with arg. spec. 'm' on line 144.
-*************************************************
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \oldstylenums with sig. 'm' on line 144.
+.................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \liningnums with arg. spec. 'm' on line 148.
+. Defining command \liningnums with sig. 'm' on line 148.
 .................................................
-) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2014/06/21 v2.4a Font selection for XeLaTeX and LuaLaTe
 X
 
@@ -235,110 +236,102 @@ File: xetex.def 2014/07/25 v4.03 LaTeX color/graphics driver for XeTeX (RRM/JK)
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \fontspec with arg. spec. 'O{}mO{}' on line 41.
+. Defining command \fontspec with sig. 'O{}mO{}' on line 41.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \setmainfont with arg. spec. 'O{}mO{}' on line 47.
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 47.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \setsansfont with arg. spec. 'O{}mO{}' on line 53.
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 53.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \setmonofont with arg. spec. 'O{}mO{}' on line 59.
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 59.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \setmathrm with arg. spec. 'O{}mO{}' on line 68.
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 68.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \setboldmathrm with arg. spec. 'O{}mO{}' on line
-. 72.
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 72.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \setmathsf with arg. spec. 'O{}mO{}' on line 76.
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 76.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \setmathtt with arg. spec. 'O{}mO{}' on line 80.
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 80.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \newfontfamily with arg. spec. 'mO{}mO{}' on line
-. 99.
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 99.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \newfontface with arg. spec. 'mO{}mO{}' on line
-. 103.
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 103.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \defaultfontfeatures with arg. spec. 't+om' on
-. line 112.
+. Defining command \defaultfontfeatures with sig. 't+om' on line 112.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \addfontfeatures with arg. spec. 'm' on line 170.
+. Defining command \addfontfeatures with sig. 'm' on line 170.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \newfontfeature with arg. spec. 'mm' on line 181.
+. Defining command \newfontfeature with sig. 'mm' on line 181.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \newAATfeature with arg. spec. 'mmmm' on line 189.
+. Defining command \newAATfeature with sig. 'mmmm' on line 189.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \newopentypefeature with arg. spec. 'mmm' on line
-. 197.
+. Defining command \newopentypefeature with sig. 'mmm' on line 197.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \aliasfontfeature with arg. spec. 'mm' on line
-. 226.
+. Defining command \aliasfontfeature with sig. 'mm' on line 226.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \aliasfontfeatureoption with arg. spec. 'mmm' on
-. line 228.
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 228.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \newfontscript with arg. spec. 'mm' on line 233.
+. Defining command \newfontscript with sig. 'mm' on line 233.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \newfontlanguage with arg. spec. 'mm' on line 259.
+. Defining command \newfontlanguage with sig. 'mm' on line 259.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \DeclareFontsExtensions with arg. spec. 'm' on
-. line 279.
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 279.
 .................................................
 Variant \prop_gput:cnV already defined; not changing it on line 662
 Variant \prop_gput:cnx already defined; not changing it on line 663
@@ -365,48 +358,46 @@ ts
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \fakesubscript with arg. spec. 'm' on line 19.
+. Defining command \fakesubscript with sig. 'm' on line 19.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \fakesuperscript with arg. spec. 'm' on line 22.
+. Defining command \fakesuperscript with sig. 'm' on line 22.
 .................................................
-
-*************************************************
-* LaTeX warning: "xparse/redefine-command"
-* 
-* Redefining document command \textsubscript with arg. spec. 's' on line 25.
-*************************************************
-*************************************************
-* LaTeX warning: "xparse/redefine-command"
-* 
-* Redefining document command \textsuperscript with arg. spec. 's' on line 28.
-*************************************************
 .................................................
-. LaTeX info: "xparse/define-command"
+. LaTeX info: "xparse/redefine-command"
 . 
-. Defining document command \realsubscript with arg. spec. 'm' on line 45.
+. Redefining command \textsubscript with sig. 's' on line 25.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \textsuperscript with sig. 's' on line 28.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \realsuperscript with arg. spec. 'm' on line 60.
+. Defining command \realsubscript with sig. 'm' on line 45.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \textsubsuperscript with arg. spec. 'sO{l}mm' on
-. line 138.
+. Defining command \realsuperscript with sig. 'm' on line 60.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \textsupersubscript with arg. spec. 'sO{l}mm' on
-. line 143.
+. Defining command \textsubsuperscript with sig. 'sO{l}mm' on line 138.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \textsupersubscript with sig. 'sO{l}mm' on line 143.
 .................................................
 \subsupersep=\dimen139
-) (/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty
 Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
 \xl@everylogo=\toks17
 \xl@@everylogo=\toks18
@@ -471,7 +462,7 @@ Package ifvtex Info: VTeX not detected.
 \Gm@dimlist=\toks19
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count124
 \calc@Bcount=\count125
 \calc@Adimen=\dimen148
@@ -775,26 +766,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 ]
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 206
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 207
 .
  (/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 269.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 270.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 269.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 270.
  (./cv_9.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 269.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 269.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 269.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 270.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 270.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 270.
  ) 
 Here is how much of TeX's memory you used:
- 21469 strings out of 493731
- 395102 string characters out of 6147925
- 447614 words of memory out of 5000000
- 24666 multiletter control sequences out of 15000+600000
+ 21515 strings out of 493727
+ 396254 string characters out of 6147891
+ 449174 words of memory out of 5000000
+ 24713 multiletter control sequences out of 15000+600000
  4144 words of font info for 33 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 46i,12n,48p,10400b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,9n,48p,10400b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on cv_9.pdf (2 pages).
